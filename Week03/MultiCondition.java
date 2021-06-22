@@ -3,7 +3,7 @@ public class MultiCondition {
 
 	public static void main(String[] args) {
 		
-		double var1 = 36.0;		// 체온	
+		double var1 = 36.0;	// 체온	
 		boolean var2 = false;	// 기침
 		boolean var3 = false; 	// 인후통
 		
