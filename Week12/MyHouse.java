@@ -1,7 +1,7 @@
 package oop.abs;
 
 public class MyHouse {
-	TV tv;		// 객체 생성 불가
+	TV tv;		
 	
 	public MyHouse(TV tv) {
 		this.tv = tv;
