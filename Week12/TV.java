@@ -1,6 +1,7 @@
 package oop.abs;
 
 public abstract class TV {
+	
 	int channel;
 	int volume;
 	String displayType;
@@ -12,4 +13,5 @@ public abstract class TV {
 	void channelDown() { channel--; }
 	
 	abstract void display();
+	
 }
