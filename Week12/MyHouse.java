@@ -1,7 +1,6 @@
 package oop.abs;
 
 public class MyHouse {
-	
 	TV tv;		
 	
 	public MyHouse(TV tv) {
@@ -10,5 +9,4 @@ public class MyHouse {
 	public void showTV() {
 		tv.display();
 	}
-	
 }
